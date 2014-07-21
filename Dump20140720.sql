@@ -23,7 +23,7 @@ USE `summerpractice`;
 
 DROP TABLE IF EXISTS `types`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
+/*!40102 SET character_set_client = utf8 */;
 CREATE TABLE `types` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `type` varchar(45) NOT NULL,
